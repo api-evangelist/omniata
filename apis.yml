@@ -38,13 +38,15 @@ x-status-evidence: omniata.com 301-redirects to a DropCatch domain-sale page (pr
   does not resolve (NXDOMAIN). Omniata was an analytics platform acquired by Nokia in 2016; the domain
   has since lapsed and been re-registered.
 created: '2026-07-17'
-modified: '2026-09-15'
+modified: '2026-09-16'
 tags:
 - Company
 - Software-as-a-Service
+- Defunct
 tags_raw:
 - Company
 - Saas
+- Defunct
 apis: []
 maintainers:
 - FN: Kin Lane
